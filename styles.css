@@ -52,6 +52,7 @@ textarea {
 }
 
 .left_container textarea {
+    padding-top: 10px;
   height: 140px;
   border-radius: 20px;
 }
